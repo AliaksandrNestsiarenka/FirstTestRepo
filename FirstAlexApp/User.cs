@@ -15,8 +15,5 @@ namespace FirstAlexApp
         public string Hobbie { get; }
 
         public string CarNumber { get; }
-
-        
-
     }
 }
