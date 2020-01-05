@@ -4,7 +4,9 @@ using System.Text;
 
 namespace FirstAlexApp
 {
-    class User
+    public class User
     {
+        public string Name { get; }
+
     }
 }
