@@ -8,5 +8,7 @@ namespace FirstAlexApp
     {
         public string Name { get; }
 
+        public int Age { get; }
+
     }
 }
