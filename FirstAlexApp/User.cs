@@ -6,7 +6,7 @@ namespace FirstAlexApp
 {
     public class User
     {
-        public string Name { get; }
+        public int Name { get; }
 
         public string LastName { get; }
 
