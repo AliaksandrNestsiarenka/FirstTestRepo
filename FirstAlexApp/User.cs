@@ -12,7 +12,7 @@ namespace FirstAlexApp
 
         public int Age { get; }
 
-        public string Hobbie { get; }
+        public string Hobbie1 { get; }
 
         public string CarNumber { get; }
     }
